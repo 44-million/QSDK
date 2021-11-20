@@ -1,0 +1,6 @@
+function CreateList() {
+
+    x = []
+    return x
+
+}
