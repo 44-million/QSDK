@@ -1,0 +1,13 @@
+function File(path) {
+
+    x = path;
+
+}
+
+function read(file) {
+    array = []
+
+    for (i, 20) {
+        array.
+    }
+}
